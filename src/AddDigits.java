@@ -29,6 +29,7 @@ public class AddDigits {
             int sum =0;
 
             for(int j=num; j>=1; j/=10){
+                Math.pow(j,2);
                 sum+=j%10;
 
 
@@ -36,6 +37,7 @@ public class AddDigits {
             num=sum;
         }
         System.out.println(num);
+
 
     }
 }
