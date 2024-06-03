@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c80a46d-e633-4cb3-b64e-27aaef573956" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsPowOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreatestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/perfectNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "Application.AddDigits.executor": "Run",
     "Application.Array.executor": "Run",
+    "Application.GreatestNumber.executor": "Run",
     "Application.IsPowOfTwo.executor": "Run",
     "Application.IsPrimeNumber.executor": "Run",
     "Application.LeftToRightSumDigit.executor": "Run",
@@ -44,6 +45,7 @@
     "Application.SpaceSqureParttern.executor": "Run",
     "Application.StarPatternPrint.executor": "Run",
     "Application.k_AddDigit.executor": "Run",
+    "Application.perfectNumber.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
