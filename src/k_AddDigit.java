@@ -5,13 +5,13 @@ public class k_AddDigit {
         //Taking input from user.
         Scanner sc = new Scanner(System.in);
         System.out.print("ENTER THE VALUE :");
-        int value = sc.nextInt();
+        float value = sc.nextInt();
         System.out.print("ENTER THE K VALUE :");
-        int K = sc.nextInt();
+        float K = sc.nextInt();
 
-        for(int num=1; num<=value; num++){
-            int sum=0;
-            for(int reminder=num; reminder>0; reminder/=10){
+        for(float num=1; num<=value; num++){
+            float sum=0;
+            for(float reminder=num; reminder>0; reminder/=10){
                 sum+=reminder%10;
             }
             if(sum == K){
